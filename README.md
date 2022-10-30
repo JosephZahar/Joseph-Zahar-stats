@@ -1,8 +1,7 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif?cid=ecf05e47n8hbv67e0eqop4f3w0nnnmfs48vxgdtjhmiffmfh&rid=giphy.gif&ct=g" width="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>
 </div> 
-
 
 <div id="w" align="center">
   <img alt="Profile views" src="https://visitor-badge.glitch.me/badge?page_id=JosephZahar.visitor-badge" width="100"/>
