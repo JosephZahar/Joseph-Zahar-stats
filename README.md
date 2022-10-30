@@ -13,7 +13,7 @@
 - :desktop_computer: I am currently working as a Data Scientist.
 - :books: Currently learning : Augmented Reality, Deep Learning.
 - 💬 Ask me about: Python, Machine Learning.
-- 📫 How to reach me: <a href="mailto:josephzahar3@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/josephzahar/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+- 📫 How to reach me: <a href="mailto:josephzahar3@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-ED1C24?style=flat&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/josephzahar/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
 
 ### Highlights 
 <!-- You can use Your Hashnode Blog to get your feed directly on your github profile -->
