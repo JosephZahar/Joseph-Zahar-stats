@@ -42,5 +42,6 @@
   
   
 ## Top Languages
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephZahar&show_icons=true&theme=graywhite&layout=compact)
+<div id="t" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephZahar&show_icons=true&theme=graywhite&layout=compact" />
+</div> 
