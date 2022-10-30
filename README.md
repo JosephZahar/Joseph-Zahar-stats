@@ -1,5 +1,5 @@
 
-# Welcome to my Profile!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Joseph-Zahar-stats.visitor-badge)
+# Welcome to my Profile!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=JosephZahar.visitor-badge)
 
 - :desktop_computer: I am currently working as a Data Scientist.
 - :books: Currently learning : Augmented Reality, Deep Learning.
