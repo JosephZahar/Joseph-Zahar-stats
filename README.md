@@ -1,6 +1,7 @@
 
 <div id="header" align="center">
-  <img src="https://trynetsolutions.com/TS/software.gif" width="500"/>
+  <img src="https://trynetsolutions.com/TS/software.gif" width="400"/>
+   <img src="https://cdn-ajkii.nitrocdn.com/YBRKoDnlCyoTiNPvqrffbRQeoJZpgQUq/assets/static/optimized/rev-1d561e0/wp-content/uploads/2020/05/mob-customcrm.png" width="400"/>
 </div> 
 
 <div id="w" align="center">
