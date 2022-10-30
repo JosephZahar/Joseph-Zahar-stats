@@ -1,10 +1,11 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e474vl2an0d1bzi5dqqd6cay2sbb0qqpdbz2qh9w0q8&rid=giphy.gif&ct=g" width="500"/>
 </div> 
 
+
 <div id="w" align="center">
-  <img alt="Profile views" src="https://visitor-badge.glitch.me/badge?page_id=JosephZahar.visitor-badge" />
+  <img alt="Profile views" src="https://visitor-badge.glitch.me/badge?page_id=JosephZahar.visitor-badge" width="100"/>
 </div>
 
 # Welcome to my Profile!  
