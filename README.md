@@ -19,9 +19,9 @@
 <!-- You can use Your Hashnode Blog to get your feed directly on your github profile -->
 <!-- BLOG-POST-LIST:START -->
 - [Product Name Classifier --> Naïve Bayes](https://github.com/JosephZahar/Product-Name-Classifier) 
+- [Metastatic Cancer Modelling --> Cellular Automata & Swarm Robotics](https://github.com/JosephZahar/Modelling-of-Metastatic-Cancer-and-its-Treatment-using-Swarm-Intelligence-Based-Control)
 - [Supply Chain Management Optimisation --> pulp](https://github.com/JosephZahar/Optimisation-Supply-Chain-Management)
 - [Image Classifier --> Fully Connected Neural Network](https://github.com/JosephZahar/NN-Fashion-Catalog)
-- [Metastatic Cancer Modelling --> Cellular Automata & Swarm Robotics](https://github.com/JosephZahar/Modelling-of-Metastatic-Cancer-and-its-Treatment-using-Swarm-Intelligence-Based-Control)
 - [Renewable Energy Consulting Project --> Data Analytics & Modelling](https://github.com/JosephZahar/Data-Science-Heat-Smart-Orkney)
 - [Kaggle Challenge: Consumer Behavior using e-commerce data --> Logistic Regression](https://github.com/JosephZahar/RecSys-challenge-kaggle)
 <!-- BLOG-POST-LIST:END -->
