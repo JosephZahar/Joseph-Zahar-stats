@@ -16,7 +16,7 @@
 - 📫 How to reach me: <a href="mailto:josephzahar3@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-ED1C24?style=flat&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/josephzahar/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
 
 ### Highlights 
-- [Flight Prices Webscrapper & Visualization Dashboard]([https://github.com/JosephZahar/Product-Name-Classifier](https://github.com/JosephZahar/Monitor-Webscraped-Flight-Prices-using-Dash-and-Plotly) 
+- [Flight Prices Webscrapper & Visualization Dashboard --> Dash + Plotly](https://github.com/JosephZahar/Monitor-Webscraped-Flight-Prices-using-Dash-and-Plotly) 
 - [Product Name Classifier --> Naïve Bayes](https://github.com/JosephZahar/Product-Name-Classifier) 
 - [Metastatic Cancer Modelling --> Cellular Automata & Swarm Robotics](https://github.com/JosephZahar/Modelling-of-Metastatic-Cancer-and-its-Treatment-using-Swarm-Intelligence-Based-Control)
 - [Supply Chain Management Optimisation --> pulp](https://github.com/JosephZahar/Optimisation-Supply-Chain-Management)
