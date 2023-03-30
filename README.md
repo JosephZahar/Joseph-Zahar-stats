@@ -56,11 +56,11 @@
   
 ## My GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=JosephZahar&show_icons=true&theme=swift" alt="github stats" width="48%" align="right"/>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JosephZahar&show_icons=true&theme=swift" alt="github stats" width="48%" align="right"/>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JosephZahar&theme=swift" width="45%" />
   
   
 ## Top Languages
 <div id="t" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephZahar&show_icons=true&theme=graywhite&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JosephZahar&show_icons=true&theme=graywhite&layout=compact" />
 </div> 
