@@ -3,10 +3,6 @@
 <img src="https://user-images.githubusercontent.com/70657426/234257433-565c8ed4-34ac-4bc0-8cb6-7e42f8b4847f.jpg" width="600"/>
 </div> 
 
-<div id="w" align="center">
-  <img alt="Profile views" src="https://visitor-badge.glitch.me/badge?page_id=JosephZahar.visitor-badge" width="100"/>
-</div>
-
 # Welcome to my Profile!  
 
 - :desktop_computer: I am currently working as a Data Scientist.
